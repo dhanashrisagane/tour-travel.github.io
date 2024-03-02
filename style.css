@@ -1,6 +1,6 @@
 .jumbotron{
 	    padding-bottom: 60px;
-	    background-image:url('C:/Users/Shree/OneDrive/Desktop/Tour & Travell Project/images/backgr.jpg');
+	    background-image:url(images\backgr.jpg);
 	    background-size: cover;
 	    color:white;
 	    border-radius:none;
