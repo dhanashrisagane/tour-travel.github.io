@@ -16,9 +16,9 @@
 	.bg-custom{
 		background-color:#76d6f5;
 	}
-	.navbar-text a{
+	navbar-text a{
     	color:black;
-    	text-decoration: none;
+	text-doceration:none;
     }
 	.nav-link{
     		color:black;
@@ -28,7 +28,11 @@
     		color: #911a34;
 
     	}
+<<<<<<< HEAD
     .navbar-text a:hover{
+=======
+    navbar-text a : hover{
+>>>>>>> f625f377225c28423a2c9175f14534e68d7cbb70
     	font-weight: bold;
     	color: #911a34;
     }	
