@@ -16,7 +16,7 @@
 	.bg-custom{
 		background-color:#76d6f5;
 	}
-	.form-inline a{
+	#abc a{
     	color:black;
 	text-doceration:none;
     }
@@ -28,7 +28,7 @@
     		color: #911a34;
 
     	}
-    .form-inline a : hover{
+    #abc a : hover{
     	font-weight: bold;
     	color: #911a34;
     }	
