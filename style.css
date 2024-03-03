@@ -16,8 +16,9 @@
 	.bg-custom{
 		background-color:#76d6f5;
 	}
-	.navbar-text a{
+	.form-inline a{
     	color:black;
+	text-doceration:none;
     }
 	.nav-link{
     		color:black;
@@ -27,7 +28,7 @@
     		color: #911a34;
 
     	}
-    .navbar-text a : hover{
+    .form-inline a : hover{
     	font-weight: bold;
     	color: #911a34;
     }	
