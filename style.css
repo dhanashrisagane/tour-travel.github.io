@@ -16,6 +16,9 @@
 	.bg-custom{
 		background-color:#76d6f5;
 	}
+	.navbar-text a{
+    	color:black;
+    }
 	.nav-link{
     		color:black;
     	}
@@ -24,9 +27,6 @@
     		font-color:white;
 
     	}
-    .navbar-text a{
-    	color:black;
-    }
     .dropdown-item{
     		background-color:white;
     	}
