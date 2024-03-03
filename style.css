@@ -16,7 +16,7 @@
 	.bg-custom{
 		background-color:#76d6f5;
 	}
-	#abc a{
+	navbar-text a{
     	color:black;
 	text-doceration:none;
     }
@@ -28,7 +28,7 @@
     		color: #911a34;
 
     	}
-    #abc a : hover{
+    navbar-text a : hover{
     	font-weight: bold;
     	color: #911a34;
     }	
