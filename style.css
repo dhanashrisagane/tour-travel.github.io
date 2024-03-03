@@ -28,7 +28,7 @@
     		color: #911a34;
 
     	}
-    .navbar-text a:hover{
+    .navbar-text a : hover{
     	font-weight: bold;
     	color: #911a34;
     }	
