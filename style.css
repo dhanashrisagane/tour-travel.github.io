@@ -1,4 +1,6 @@
 .jumbotron{
+	    background-image: url("images/background.jpg"); 
+	    background-size: cover;
 	    padding-bottom: 60px;
 	    color:white;
 	    border-radius:none;
