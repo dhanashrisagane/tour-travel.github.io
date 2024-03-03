@@ -23,8 +23,8 @@
     		color:black;
     	}
     .nav-link:hover{
-    		font-weight:bold;
-    		font-color:white;
+    		font-weight: bold;
+    		color: #911a34;
 
     	}
     .dropdown-item{
