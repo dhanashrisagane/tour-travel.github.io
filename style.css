@@ -16,6 +16,9 @@
 	.bg-custom{
 		background-color:#76d6f5;
 	}
+        nav{
+		display:flex;
+	}
 	.navbar-text a{
     	color:black;
     }
