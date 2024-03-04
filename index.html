@@ -16,14 +16,15 @@
 </head>
 <body>
   <!--Start navigation-->
-<nav class="navbar navbar-expand-lg bg-custom">
-     <a class="navbar-brand" href="#">
+<nav class="navbar navbar-expand-lg bg-custom" id="nav">
+  <div class="container">
+     <a class="navbar-brand" href="index.html">
     <img src="images\logo.jpg" alt="Logo" style="width:50px;">
      </a>
   <div id="navbar">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="#"><i class="bi bi-house-heart"></i>Home</a>
+        <a class="nav-link active" href="index.html"><i class="bi bi-house-heart"></i>Home</a>
       </li>
       <li class="nav-item dropdown"><a href="#"class="nav-link dropdown-toggle" data-toggle="dropdown">Destinations</a>
         <div class="dropdown-menu">
@@ -44,10 +45,11 @@
         <a class="nav-link" href="#contact">Contact</a>
       </li>
     </ul>
-    <span class="navbar-text">
+    <span class="navbar-text-inline">
       <a href="#registermodal" data-toggle="modal">Register</a> &nbsp;&nbsp;
       <a href="#loginmodal"data-toggle="modal">Login</a>
     </span>
+  </div>
   </div>
 </nav>
 <!--end navigation-->
