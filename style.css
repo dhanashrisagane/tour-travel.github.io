@@ -56,13 +56,13 @@
 	}
 
 	#about p{
-		text-align:justify;
+		text-align:center;
 		user-select:none; 
 		color:black;
 	}
 	#about.img-fluid{
 		width:600px;
-		height:700px;
+		height:800px;
 	}
 
 	figcaption{
